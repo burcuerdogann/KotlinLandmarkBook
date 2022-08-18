@@ -2,4 +2,4 @@
 
 Android Development / Kotlin Tutorial - Lesson 12
 
-RecyclerView | ListView
+RecyclerView & Adapter | ListView
